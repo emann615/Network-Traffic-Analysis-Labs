@@ -4,4 +4,4 @@
 - [Wireshark PCAP Analysis](https://github.com/emann615/Network-Traffic-Analysis-Labs/tree/main/Wireshark)
 
 ## Snort
-- [Wireshark PCAP Analysis](https://github.com/emann615/Network-Traffic-Analysis-Labs/tree/main/Wireshark)
+- [Snort Challenge: Live Attacks](https://github.com/emann615/Network-Traffic-Analysis-Labs/blob/main/Snort-Challenge-Live-Attacks.md)
